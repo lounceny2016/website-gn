@@ -8,12 +8,7 @@ public class WebSiteController {
 
     @GetMapping("/")
     public String homePage(){
-        return "redirect:/index";
-    }
-
-    @GetMapping("/index")
-    public String index(){
-       return "index";
+        return "index";
     }
 
     @GetMapping("/humanRessources")
