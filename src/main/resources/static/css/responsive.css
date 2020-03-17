@@ -122,7 +122,7 @@
 
   .header-area {
     height: 60px !important;
-    background: #000;
+    background: #fff;
   }
   .navbar-header a.navbar-brand, .stick .navbar-header a.navbar-brand {
     display: inline-block;
@@ -133,7 +133,7 @@
     padding: 15px 0;
   }
   .nav.navbar-nav.navbar-right, .stick .nav.navbar-nav.navbar-right {
-    background-color: #252525;
+    background-color: #fff;
     padding: 0;
     margin-top: 0;
   }
