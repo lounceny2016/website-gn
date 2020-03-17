@@ -1553,9 +1553,9 @@ div#preloader {
 }
 
 .single-blog .ready-btn {
-  border: 1px solid #3ec1d5;
+  border: 1px solid #fff;
   border-radius: 30px;
-  color: #3ec1d5;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 15px;
@@ -1568,7 +1568,7 @@ div#preloader {
 }
 
 .single-blog .ready-btn:hover {
-  border: 1px solid #3EC1D5;
+  border: 1px solid #fff;
   color: #fff;
 }
 
@@ -2029,9 +2029,9 @@ div#preloader {
 }
 
 .ready-btn {
-  border: 1px solid #3ec1d5;
+  border: 1px solid #fff;
   border-radius: 30px;
-  color: #3ec1d5;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 17px;
@@ -2047,7 +2047,7 @@ div#preloader {
 .ready-btn:hover {
   color: #fff;
   background: #3EC1D5;
-  border: 1px solid #3EC1D5;
+  border: 1px solid #fff;
   text-decoration: none;
 }
 
