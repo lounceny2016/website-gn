@@ -213,6 +213,7 @@ div#preloader {
 
 .area-padding {
   padding: 70px 0px 80px;
+  background-color: #f9f9f9;
 }
 
 .area-padding-2 {
@@ -264,7 +265,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(0, 0, 0, 0.40);
+  background: #fff;
   z-index: 9;
 }
 
@@ -290,7 +291,7 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li.active a::after {
-  border: 1px solid #fff;
+  border: 1px solid #3EC1D5;
   bottom: 0px;
   content: "";
   left: 0;
@@ -300,11 +301,11 @@ div#preloader {
 
 .main-menu ul.navbar-nav li.active a:hover {
   background: none;
-  color: #fff;
+  color: #3EC1D5;
 }
 
 .main-menu ul.navbar-nav li.active a:focus {
-  color: #fff;
+  color: #3EC1D5;
 }
 
 .main-menu ul.navbar-nav li.active a {
@@ -314,7 +315,7 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li a:hover {
-  color: #fff;
+  color: #3EC1D5;
 }
 
 .navbar {
@@ -348,7 +349,7 @@ div#preloader {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #3EC1D5;
   width: 30px;
   height: 2px;
 }
@@ -375,7 +376,7 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: #3ec1d5;
+  background-color: #fff;
   height: 70px;
   position: fixed;
   top: 0;
@@ -418,12 +419,12 @@ div#preloader {
 }
 
 .stick .main-menu ul.nav>li>a:hover {
-  color: #fff;
+  color: #3EC1D5;
 }
 
 .stick .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #fff;
+  color: #3EC1D5;
   position: relative;
 }
 
@@ -446,7 +447,7 @@ div#preloader {
 }
 
 .stick .main-menu ul.nav>li>a {
-  color: #fff;
+  color: #3EC1D5;
   line-height: 22px;
   padding: 24px 0px;
   text-transform: capitalize;
@@ -454,7 +455,7 @@ div#preloader {
 }
 
 .stick .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #3EC1D5;
   width: 30px;
   height: 2px;
 }
@@ -1838,7 +1839,7 @@ div#preloader {
 }
 
 .footer-area-bottom {
-  background: #f1f1f1 none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   padding: 15px 0;
 }
 
